@@ -1,0 +1,8 @@
+15:38:55 **** Incremental Build of configuration Debug for project motor3 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+ 
+make: Nothing to be done for `main-build'.
+
+15:38:55 Build Finished (took 157ms)
+
