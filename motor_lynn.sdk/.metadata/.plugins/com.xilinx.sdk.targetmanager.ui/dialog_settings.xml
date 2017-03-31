@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="E:\Lin\vivado_learing\motor_lynn\motor_lynn.sdk\motor_hw\motor_wrapper.bit" key="motor_hw-bitFile"/>
+	<item value="Local" key="motor_hw-target"/>
+	<item value="" key="motor3_hw-bmmFile"/>
+	<item value="Auto Detect" key="motor2_hw-device"/>
+	<item value="Auto Detect" key="motor_wrapper_hw_platform_0-device"/>
+	<item value="false" key="motor_hw-partial_bit"/>
+	<item value="Auto Detect" key="motor3_hw-device"/>
+	<item value="Local" key="motor3_hw-target"/>
+	<item value="false" key="motor3_hw-partial_bit"/>
+	<item value="Local" key="motor2_hw-target"/>
+	<item value="" key="motor_hw-bmmFile"/>
+	<item value="E:\Lin\vivado_learing\motor_lynn\motor_lynn.sdk\motor2_hw\motor_wrapper.bit" key="motor2_hw-bitFile"/>
+	<item value="false" key="motor2_hw-partial_bit"/>
+	<item value="" key="motor2_hw-bmmFile"/>
+	<item value="Local" key="motor_wrapper_hw_platform_0-target"/>
+	<item value="motor3_hw" key="programfpga.hwplatform"/>
+	<item value="false" key="motor_wrapper_hw_platform_0-partial_bit"/>
+	<item value="E:\Lin\vivado_learing\motor_lynn\motor_lynn.sdk\motor_wrapper_hw_platform_0\motor_wrapper.bit" key="motor_wrapper_hw_platform_0-bitFile"/>
+	<item value="Auto Detect" key="motor_hw-device"/>
+	<item value="" key="motor_wrapper_hw_platform_0-bmmFile"/>
+	<item value="motor_wrapper.bit" key="motor3_hw-bitFile"/>
+</section>

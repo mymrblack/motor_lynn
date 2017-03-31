@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2016.2 (64-bit)
+# SW Build 1577090 on Thu Jun  2 16:32:40 MDT 2016
+# IP Build 1577682 on Fri Jun  3 12:00:54 MDT 2016
+# Start of session at: Fri Mar 31 14:59:05 2017
+# Process ID: 7560
+# Current directory: E:/Lin/vivado_learing/motor_lynn/motor_lynn.runs/synth_1
+# Command line: vivado.exe -log motor_wrapper.vds -mode batch -messageDb vivado.pb -notrace -source motor_wrapper.tcl
+# Log file: E:/Lin/vivado_learing/motor_lynn/motor_lynn.runs/synth_1/motor_wrapper.vds
+# Journal file: E:/Lin/vivado_learing/motor_lynn/motor_lynn.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source motor_wrapper.tcl -notrace
